@@ -1,6 +1,6 @@
 # WWDC 2021: AsyncSequence vs. Combine: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[WWDC 2021: AsyncSequence vs. Combine](https://www.raywenderlich.com/library)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[WWDC 2021: AsyncSequence vs. Combine](https://www.raywenderlich.com/25254315-wwdc-2021-asyncsequence-vs-combine)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
